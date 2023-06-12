@@ -1,0 +1,12 @@
+sever:
+  port: 8888
+
+spring:
+  jackson:
+    date-format: yymm-MM-dd HH:mm:ss
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
